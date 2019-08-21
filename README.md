@@ -3,17 +3,18 @@ This course emphasizes programming using scripting languages for the purpose of 
 
 ## Schedule
 Monday, Wednesday, and Friday\
-10:00 - 10:50\ 
+10:00 - 10:50 \ 
 Adv Technology & Science Hall 224\
 Fall 2019
 
 ### Office Hours
-**Add Office location**
-MWF, 8 to 930 (Hard cutoff 930 – 1000.)
+**Add Office location**\
+Monday and Wednesday\
+8:00 - 930 (Hard cutoff 930 – 1000.)\
 
 ## Contact Info
-Mr. (*Not Dr.*) Dan Miller
-Pronouns: He, Him, His
+Mr. (*Not Dr.*) Dan Miller\
+Pronouns: He, Him, His\
 **Add email, office phone, and slack info here**		
 
 ## Timeline
