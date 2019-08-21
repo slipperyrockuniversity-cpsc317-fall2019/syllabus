@@ -2,7 +2,9 @@
 This course emphasizes programming using scripting languages for the purpose of collecting and manipulating system information by system administrators and managers. Programming concepts such as data types and control structures will be discussed as well as operating system commands. A variety of languages and utilities will be discussed such as Python, Node, Git, GraphQL, continuous delivery / integration, JavaScript, TypeScript, and React/Angular. The student is expected to have programming experience and knowledge of the Unix and Windows environments.
 
 ## Schedule
-MWF, 10 – 11, Adv Technology & Science Hall 224
+Monday, Wednesday, and Friday\
+10:00 - 10:50\ 
+Adv Technology & Science Hall 224\
 Fall 2019
 
 ### Office Hours
