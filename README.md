@@ -8,7 +8,7 @@ Adv Technology & Science Hall 224
 Fall 2019
 
 ### Office Hours
-**Add Office location**        
+ATS 243     
 Monday and Wednesday        
 8:00 - 930 (Hard cutoff 930 – 1000.)
 
@@ -19,8 +19,8 @@ Pronouns: He, Him, His
 
 ## Timeline
 - Git, Github, Github Classroom (1 Day)
-- Functional Programming, a JavaScript refresher (1 - 2 Weeks)
 - Python (2 Weeks)
+- Functional Programming, a JavaScript refresher (1 - 2 Weeks)
 - Node / GraphQL / Continous Delivery / Back Ends (4 Weeks)
 - Angular / React / Front Ends (Until The End)
 - Refactor Labs --> Spaced evenly throughout the semester
@@ -30,6 +30,21 @@ Pronouns: He, Him, His
 - **Recommended:** Refactoring: Improving the design of existing code (2nd edition), Martin Fowler, ISBN: 978-0134757599
 - [https://www.google.com](https://www.google.com)
 - More sources coming throughout the semester
+
+### Software
+**_Also upodated frequently_**
+We will be using a lot of either open source or free to use software in the class. A few items to get you started:
+- Shell Software
+    - Mac: [https://www.iterm2.com/](https://www.iterm2.com/)
+    - Windows: [https://cmder.net/](https://cmder.net/)
+- JetBrains Software (Get your free student on)
+    - [https://www.jetbrains.com/student/](https://www.jetbrains.com/student/)
+    - PyCharm first
+    - Webstorm if you want it
+- Github student account
+    - [https://education.github.com/pack](https://education.github.com/pack)
+    - If you do not like the command line [https://www.gitkraken.com/student-resources](https://www.gitkraken.com/student-resources)
+- [https://slack.com/](https://slack.com/) 
 
 ## Grading
 The course grades will be based upon assignments, labs, participation, and tests. The following is a tentative point scale for the course. Final grades will be assessed by dividing points earned by the student by total possible points. 
