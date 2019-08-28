@@ -16,7 +16,7 @@ Monday and Wednesday
 Mr. (*Not Dr.*) Dan Miller         
 Pronouns: He, Him, His .        
 Slack: [https://join.slack.com/t/cpsc-317workspace/shared_invite/enQtNzQwNDUwMTM4NzUyLTdmZGY1ZmFkMDEwODA4YzExYmViODc1NGJjYjYxZTRhYWRkMjM2N2NhNGVjNDkzODVhZjY5NmFmMzkwYmE2MDM](https://join.slack.com/t/cpsc-317workspace/shared_invite/enQtNzQwNDUwMTM4NzUyLTdmZGY1ZmFkMDEwODA4YzExYmViODc1NGJjYjYxZTRhYWRkMjM2N2NhNGVjNDkzODVhZjY5NmFmMzkwYmE2MDM)        
-Email: [mailto:daniel.miller@sru.edu](daniel.miller@sru.edu)		
+Email: [daniel.miller@sru.edu](mailto:daniel.miller@sru.edu)		
 
 ## Timeline
 - Git, Github, Github Classroom (2 Days)
