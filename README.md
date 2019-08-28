@@ -14,11 +14,12 @@ Monday and Wednesday
 
 ## Contact Info
 Mr. (*Not Dr.*) Dan Miller         
-Pronouns: He, Him, His         
-**Add email, office phone, and slack info here**		
+Pronouns: He, Him, His 
+Slack: [https://join.slack.com/t/cpsc-317workspace/shared_invite/enQtNzQwNDUwMTM4NzUyLTdmZGY1ZmFkMDEwODA4YzExYmViODc1NGJjYjYxZTRhYWRkMjM2N2NhNGVjNDkzODVhZjY5NmFmMzkwYmE2MDM](https://join.slack.com/t/cpsc-317workspace/shared_invite/enQtNzQwNDUwMTM4NzUyLTdmZGY1ZmFkMDEwODA4YzExYmViODc1NGJjYjYxZTRhYWRkMjM2N2NhNGVjNDkzODVhZjY5NmFmMzkwYmE2MDM)        
+Email: [daniel.miller@sru.edu](daniel.miller@sru.edu)		
 
 ## Timeline
-- Git, Github, Github Classroom (1 Day)
+- Git, Github, Github Classroom (2 Days)
 - Python (2 Weeks)
 - Functional Programming, a JavaScript refresher (1 - 2 Weeks)
 - Node / GraphQL / Continous Delivery / Back Ends (4 Weeks)
@@ -29,7 +30,10 @@ Pronouns: He, Him, His
 **_This will be continually updated_**
 - **Recommended:** Refactoring: Improving the design of existing code (2nd edition), Martin Fowler, ISBN: 978-0134757599
 - [https://www.google.com](https://www.google.com)
-- More sources coming throughout the semester
+- Git Sources
+    - [https://jwiegley.github.io/git-from-the-bottom-up/](https://jwiegley.github.io/git-from-the-bottom-up/)
+    - [https://dangitgit.com/](https://dangitgit.com/)
+    - [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 
 ### Software
 **_Also upodated frequently_**
@@ -88,11 +92,12 @@ Slippery Rock University and its faculty are committed to assuring a safe and pr
 ## Preferred Pronouns, Names, and Inclusion
 The instructor hopes to create a space where students have the opportunity to bring all aspects of their selves into the classroom in order to fully engage in this course. I support people of all gender expressions and gender identities and encourage students to use the name and set of pronouns which best reflect who they are. In this spirit, I welcome and expect all students to also use the correct name and pronouns of their classmates. I will do my best to respect and use the language you use to refer to yourself and will encourage other members of our classroom community to do the same. Please inform me if my documentation reflects a name or set of pronouns different from what you use, and if you have any questions or concerns, please contact me after class, by email, or during office hours.
 
-## Course Cancellations
+## Course Important Dates
 |Date                   |Reason             |
 |-----------------------|-------------------|
 |2 September            |Labor Day          |
-|4 October              |Army               |
+|4 September            |OE Brief Demo      |
+|4 October              |Class Cancelled    |
 |7 October              |Fall Break         |
 |27, 29 November        |Thanksgiving       |
 
