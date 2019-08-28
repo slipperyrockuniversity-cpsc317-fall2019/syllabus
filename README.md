@@ -15,7 +15,7 @@ Monday and Wednesday
 ## Contact Info
 Mr. (*Not Dr.*) Dan Miller         
 Pronouns: He, Him, His .        
-Slack: [https://join.slack.com/t/cpsc-317workspace/shared_invite/enQtNzQwNDUwMTM4NzUyLTdmZGY1ZmFkMDEwODA4YzExYmViODc1NGJjYjYxZTRhYWRkMjM2N2NhNGVjNDkzODVhZjY5NmFmMzkwYmE2MDM](https://join.slack.com/t/cpsc-317workspace/shared_invite/enQtNzQwNDUwMTM4NzUyLTdmZGY1ZmFkMDEwODA4YzExYmViODc1NGJjYjYxZTRhYWRkMjM2N2NhNGVjNDkzODVhZjY5NmFmMzkwYmE2MDM)        
+Slack: [https://join.slack.com/t/cpsc-317workspace/shared_invite/enQtNzQwNDUwMTM4NzUyLTdmZGY1ZmFkMDEwODA4YzExYmViODc1NGJjYjYxZTRhYWRkMjM2N2NhNGVjNDkzODVhZjY5NmFmMzkwYmE2MDM](Sign Up, Get The App)        
 Email: [daniel.miller@sru.edu](mailto:daniel.miller@sru.edu)		
 
 ## Timeline
