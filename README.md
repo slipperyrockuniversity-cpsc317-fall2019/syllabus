@@ -34,6 +34,13 @@ Email: [daniel.miller@sru.edu](mailto:daniel.miller@sru.edu)
     - [https://jwiegley.github.io/git-from-the-bottom-up/](https://jwiegley.github.io/git-from-the-bottom-up/)
     - [https://dangitgit.com/](https://dangitgit.com/)
     - [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
+- Git Kraken (link to download below)
+    - [https://www.youtube.com/watch?v=ub9GfRziCtU](https://www.youtube.com/watch?v=ub9GfRziCtU)
+- Python
+    - Boilerplate Maker [https://www.python-boilerplate.com/py3+executable+gitignore](https://www.python-boilerplate.com/py3+executable+gitignore)
+    - Downloads [https://www.python.org/downloads/](https://www.python.org/downloads/)
+    - Python File Handling [https://www.pythonforbeginners.com/files/reading-and-writing-files-in-python](https://www.pythonforbeginners.com/files/reading-and-writing-files-in-python)
+    
 
 ### Software
 **_Also upodated frequently_**
