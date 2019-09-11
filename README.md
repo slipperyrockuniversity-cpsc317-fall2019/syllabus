@@ -34,6 +34,9 @@ Email: [daniel.miller@sru.edu](mailto:daniel.miller@sru.edu)
     - [https://jwiegley.github.io/git-from-the-bottom-up/](https://jwiegley.github.io/git-from-the-bottom-up/)
     - [https://dangitgit.com/](https://dangitgit.com/)
     - [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
+- Python Sources
+    - Setting up python: [https://realpython.com/installing-python/](https://realpython.com/installing-python/)
+    - Get PyCharm!! See Software Link Below
 
 ### Software
 **_Also upodated frequently_**
