@@ -13,7 +13,7 @@
 | Mason G.              	| 9/25  	|
 | Justin G              	| 9/30  	|
 | Davis H               	| 9/30  	|
-| Brooklyn H            	| 10/2  	|
+| Brooklynn H            	| 10/2  	|
 | Alyssa J              	| 10/2  	|
 | Cain K                	| 10/9  	|
 | Connie L              	| 10/9  	|
