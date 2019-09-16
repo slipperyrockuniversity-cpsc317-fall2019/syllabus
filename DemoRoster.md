@@ -1,10 +1,8 @@
 | Name                  	| Date  	|
 |-----------------------	|-------	|
 | Eric S                	| 9/11  	|
-| Bubb, Ian J.          	| 9/16  	|
-| Busbee, James S.      	| 9/16  	|
-| Channing, Savannah K. 	| 9/18  	|
-| Chappell, Trevon M.   	| 9/18  	|
+| Bubb, Ian J.          	| 9/18  	|
+| Busbee, James S.      	| 9/18  	|
 | Dante C.              	| 9/20  	|
 | Bradley C.            	| 9/20  	|
 | Alexander C.          	| 9/23  	|
@@ -27,3 +25,5 @@
 | Jordan V              	| 10/21 	|
 | Alec V                	| 10/23 	|
 | Adam W                	| 10/23 	|
+| Channing, Savannah K. 	| 10/25  	|
+| Chappell, Trevon M.   	| 10/25  	|
