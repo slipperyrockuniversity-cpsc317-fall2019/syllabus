@@ -12,7 +12,7 @@
 2. Make a predictive tool that helps manage fanatasy sports picks for a given sport. The application needs some form of interface and a way to store data from previous. 
 3. Using [http://johnny-five.io/](http://johnny-five.io/) or Python create an IoT device that makes a web call and raises a flag if the team has won thier last game or lowers the flag if team has lost their last game. Example every day 3pm our device makes a web call and raises / lowers flags for all of the Pittsburgh Sports teams. It should also make this call on a button click so you can demo it in class. Style counts with a physical device
 4. Using [http://johnny-five.io/](http://johnny-five.io/) or Python create an IoT device that has a light that can change color. Build and deploy a website that can change the color of the devices. Style counts with a physical device.
-5. Build and deploy a web application that uses continous integration. It should have a front end that talk to an API and persists data into some form of database. Talk to some of the professors doing research and see what you can build them.
+5. Build and deploy a web application that uses continous integration. It should have a front end that talk to an API and persists data into some form of database. Talk to some of the professors doing research and see what you can build them, build something that you think is awesome, use the Guilded Rose Example [https://github.com/CMMI-Institute/GuildedRose](https://github.com/CMMI-Institute/GuildedRose).
 6. Propose your own final project (using a scripting language), and get it approved.
 
 Extra credit will be given to anyone who receives a major award like a Nobel Prize for your work!
