@@ -7,6 +7,10 @@ Monday, Wednesday, and Friday
 Adv Technology & Science Hall 224        
 Fall 2019
 
+### Exam Dates:
+- Exam 1 (October 9th)
+- Exam 2 (TBD)
+
 ### Office Hours
 ATS 243     
 Monday and Wednesday        
@@ -108,6 +112,7 @@ The instructor hopes to create a space where students have the opportunity to br
 |4 September            |OE Brief Demo      |
 |4 October              |Class Cancelled    |
 |7 October              |Fall Break         |
+|13, 15 November        |Work Travel        |
 |27, 29 November        |Thanksgiving       |
 
 ## Living Document Clause
