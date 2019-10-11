@@ -13,8 +13,6 @@
 | Davis H               	| 9/30  	|
 | Brooklynn H            	| 10/2  	|
 | Alyssa J              	| 10/2  	|
-| Jason L               	| 10/11 	|
-| Jonathon M            	| 10/11 	|
 | Alexus P              	| 10/14 	|
 | Alan R                	| 10/14 	|
 | Micah S               	| 10/16 	|
@@ -27,3 +25,5 @@
 | Chappell, Trevon M.   	| 10/25  	|
 | Cain K                	| 10/28  	|
 | Connie L              	| 10/28  	|
+| Jason L               	| 10/31 	|
+| Jonathon M            	| 10/31 	|
