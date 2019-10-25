@@ -17,13 +17,13 @@
 | Alan R                	| 10/14 	|
 | Micah S               	| 10/16 	|
 | Jonathon S            	| 10/16 	|
-| Chris V               	| 10/21 	|
-| Jordan V              	| 10/21 	|
-| Alec V                	| 10/23 	|
-| Adam W                	| 10/23 	|
-| Channing, Savannah K. 	| 10/25  	|
-| Chappell, Trevon M.   	| 10/25  	|
 | Cain K                	| 10/28  	|
 | Connie L              	| 10/28  	|
-| Jason L               	| 10/31 	|
-| Jonathon M            	| 10/31 	|
+| Jason L               	| 10/30 	|
+| Jonathon M            	| 10/30 	|
+| Chris V               	| 11/1 	|
+| Jordan V              	| 11/1	|
+| Alec V                	| 11/4 	|
+| Adam W                	| 11/4 	|
+| Channing, Savannah K. 	| 11/6 	|
+| Chappell, Trevon M.   	| 11/6  	|
