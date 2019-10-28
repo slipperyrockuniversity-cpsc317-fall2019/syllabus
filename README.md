@@ -46,6 +46,9 @@ Email: [daniel.miller@sru.edu](mailto:daniel.miller@sru.edu)
     - Boilerplate Maker [https://www.python-boilerplate.com/py3+executable+gitignore](https://www.python-boilerplate.com/py3+executable+gitignore)
     - Downloads [https://www.python.org/downloads/](https://www.python.org/downloads/)
     - Python File Handling [https://www.pythonforbeginners.com/files/reading-and-writing-files-in-python](https://www.pythonforbeginners.com/files/reading-and-writing-files-in-python)
+- Angular
+    - The docs [https://angular.io/tutorial/toh-pt0](https://angular.io/tutorial/toh-pt0)
+    - TypeScript [https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
 
 ### Software
