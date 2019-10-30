@@ -49,6 +49,7 @@ Email: [daniel.miller@sru.edu](mailto:daniel.miller@sru.edu)
 - Angular
     - The docs [https://angular.io/tutorial/toh-pt0](https://angular.io/tutorial/toh-pt0)
     - TypeScript [https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+    - Pipes [https://alligator.io/angular/built-in-pipes-angular/](https://alligator.io/angular/built-in-pipes-angular/)
 
 
 ### Software
